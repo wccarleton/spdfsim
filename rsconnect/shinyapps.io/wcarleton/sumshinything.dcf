@@ -1,0 +1,10 @@
+name: sumshinything
+title:
+username:
+account: wcarleton
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2887463
+bundleId: 3681841
+url: https://wcarleton.shinyapps.io/sumshinything/
+when: 1601360419.14751
