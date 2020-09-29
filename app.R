@@ -4,6 +4,7 @@ library(shinycustomloader)
 library(ggplot2)
 library(ggpubr)
 library(clam)
+library(png)
 
 calSampleApprox <- function(x,t1,t2,r){
     n <- length(x)

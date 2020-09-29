@@ -1,0 +1,10 @@
+name: spdfsim
+title:
+username:
+account: wcarleton
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2907769
+bundleId: 3681873
+url: https://wcarleton.shinyapps.io/spdfsim/
+when: 1601361234.80061
